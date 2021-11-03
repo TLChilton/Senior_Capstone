@@ -1,0 +1,371 @@
+200
+[
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Oct 20 22:01:07 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 859816394556284929,
+                    "id_str": "859816394556284929",
+                    "indices": [
+                        3,
+                        17
+                    ],
+                    "name": "The Boring Company",
+                    "screen_name": "boringcompany"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 1450945200805842947,
+        "id_str": "1450945200805842947",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "quoted_status_id": 1450877187779796992,
+        "quoted_status_id_str": "1450877187779796992",
+        "retweet_count": 1206,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Oct 20 20:29:36 +0000 2021",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1450922169840533507",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "url": "https://t.co/On5y08jLTC"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 9594,
+            "favorited": false,
+            "geo": null,
+            "id": 1450922169840533507,
+            "id_str": "1450922169840533507",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Oct 20 17:30:52 +0000 2021",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                62,
+                                74
+                            ],
+                            "text": "ClarkCounty"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/1450877187779796992",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/T2POOjTfcV"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 1194,
+                "favorited": false,
+                "geo": null,
+                "id": 1450877187779796992,
+                "id_str": "1450877187779796992",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 217,
+                "retweeted": false,
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "text": "Expanding and moving forward with plans for the \"Vegas Loop.\" #ClarkCounty Commissioners just approved an agreement\u2026 https://t.co/T2POOjTfcV",
+                "truncated": true,
+                "user": {
+                    "id": 33601080,
+                    "id_str": "33601080"
+                }
+            },
+            "quoted_status_id": 1450877187779796992,
+            "quoted_status_id_str": "1450877187779796992",
+            "retweet_count": 1206,
+            "retweeted": false,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "Vegas Loop is expanding - 29 miles and 51 stations! \nThanks to the Clark County team for the great partnership and\u2026 https://t.co/On5y08jLTC",
+            "truncated": true,
+            "user": {
+                "id": 859816394556284929,
+                "id_str": "859816394556284929"
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @boringcompany: Vegas Loop is expanding - 29 miles and 51 stations! \nThanks to the Clark County team for the great partnership and to th\u2026",
+        "truncated": false,
+        "user": {
+            "id": 44196397,
+            "id_str": "44196397"
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Oct 19 12:16:20 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/a0F22R5Hv7",
+                    "expanded_url": "https://twitter.com/elonmusk/status/1450435645655195649/photo/1",
+                    "id": 1450435643050496003,
+                    "id_str": "1450435643050496003",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FCD7iFmXEAMpXPT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FCD7iFmXEAMpXPT.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 883,
+                            "resize": "fit",
+                            "w": 922
+                        },
+                        "medium": {
+                            "h": 883,
+                            "resize": "fit",
+                            "w": 922
+                        },
+                        "small": {
+                            "h": 651,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/a0F22R5Hv7"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/a0F22R5Hv7",
+                    "expanded_url": "https://twitter.com/elonmusk/status/1450435645655195649/photo/1",
+                    "id": 1450435643050496003,
+                    "id_str": "1450435643050496003",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FCD7iFmXEAMpXPT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FCD7iFmXEAMpXPT.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 883,
+                            "resize": "fit",
+                            "w": 922
+                        },
+                        "medium": {
+                            "h": 883,
+                            "resize": "fit",
+                            "w": 922
+                        },
+                        "small": {
+                            "h": 651,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/a0F22R5Hv7"
+                }
+            ]
+        },
+        "favorite_count": 342138,
+        "favorited": false,
+        "geo": null,
+        "id": 1450435645655195649,
+        "id_str": "1450435645655195649",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 40228,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "https://t.co/a0F22R5Hv7",
+        "truncated": false,
+        "user": {
+            "id": 44196397,
+            "id_str": "44196397"
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Oct 18 21:31:31 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/g5ulISeWxS",
+                    "expanded_url": "https://twitter.com/elonmusk/status/1450212973314658305/photo/1",
+                    "id": 1450212967383908353,
+                    "id_str": "1450212967383908353",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FCAxAqGVQAE7PTk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FCAxAqGVQAE7PTk.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1335,
+                            "resize": "fit",
+                            "w": 1284
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1154
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 654
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/g5ulISeWxS"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/g5ulISeWxS",
+                    "expanded_url": "https://twitter.com/elonmusk/status/1450212973314658305/photo/1",
+                    "id": 1450212967383908353,
+                    "id_str": "1450212967383908353",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FCAxAqGVQAE7PTk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FCAxAqGVQAE7PTk.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1335,
+                            "resize": "fit",
+                            "w": 1284
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1154
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 654
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/g5ulISeWxS"
+                }
+            ]
+        },
+        "favorite_count": 614799,
+        "favorited": false,
+        "geo": null,
+        "id": 1450212973314658305,
+        "id_str": "1450212973314658305",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 89228,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "https://t.co/g5ulISeWxS",
+        "truncated": false,
+        "user": {
+            "id": 44196397,
+            "id_str": "44196397"
+        }
+    }
+]
