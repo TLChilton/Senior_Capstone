@@ -4,3 +4,4 @@
 SprintChart.xlsx
 test.py
 *.png
+__pycache__/dataDownload.cpython-39.pyc
