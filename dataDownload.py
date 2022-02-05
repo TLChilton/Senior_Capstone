@@ -1,3 +1,5 @@
+# Only slightly modified from https://github.com/GeneralMills/pytrends/blob/master/pytrends/dailydata.py
+
 from datetime import date, timedelta
 from functools import partial
 from time import sleep
